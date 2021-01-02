@@ -5,7 +5,11 @@ title: >-
 date: 2020-12-31T18:30:00.000Z
 thumb_image: ''
 image: ''
-excerpt: ''
+excerpt: >-
+  The Civil Rights Movement of the 50's and 60's was arguably one of the most
+  formative and influential periods in American history. Non-violent protests
+  and civil disobedience during this time caused many crisis situations where
+  the government had to take action
 template: post
 ---
 The Civil Rights Movement of the 50's and 60's was arguably one of the most formative and influential periods in American history. Non-violent protests and civil disobedience during this time caused many crisis situations where the government had to take action. These showed
