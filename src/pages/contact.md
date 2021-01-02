@@ -32,7 +32,7 @@ sections:
         new_window: true
         style: icon
         type: action
-        url: 'mailto:shelar.nikita19@gmail.com'
+        url: 'https://mailto:shelar.nikita19@gmail.com'
       - icon_class: fa-phone
         label: Number
         new_window: true
@@ -42,6 +42,12 @@ sections:
     content: You can Follow me here or
     title: Get in touch with Me
     type: section_content
+  - col_number: three
+    grid_items:
+      - title: Latest from Instagram
+        type: grid_item
+    is_numbered: false
+    type: section_grid
 template: advanced
 ---
 
