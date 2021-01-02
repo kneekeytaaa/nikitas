@@ -1,11 +1,11 @@
 {
-    "title": "Stackbit Exto Theme",
-    "description": "A portfolio theme with a blog",
+    "title": "Nikita",
+    "description": "A portfolio and personal Blog",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
         "type": "header",
-        "title": "Exto",
+        "title": "Nikita",
         "has_nav": true,
         "nav_links": [
             {
@@ -16,7 +16,7 @@
             },
             {
                 "type": "action",
-                "label": "Portfolio",
+                "label": "Cases",
                 "url": "/portfolio/",
                 "style": "link"
             },
@@ -24,12 +24,6 @@
                 "type": "action",
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
@@ -48,7 +42,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=exto\" target=\"_blank\" rel=\"noopener\">here</a>.",
+        "content": "&copy; 2020 Nikita. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
