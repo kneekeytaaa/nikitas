@@ -5,9 +5,7 @@ title: >-
 date: 2020-12-31T18:30:00.000Z
 thumb_image: ''
 image: ''
-excerpt: >-
-  Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis
-  tristique sollicitudin nibh sit amet commodo nulla facilisi.
+excerpt: ''
 template: post
 ---
 The Civil Rights Movement of the 50&#39;s and 60&#39;s was arguably one of the most formative and influential periods in American history. Non-violent protests and civil disobedience during this
