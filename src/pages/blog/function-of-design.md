@@ -1,19 +1,84 @@
 ---
-title: The function of design is letting design function
-subtitle: 'A interesting tale about function of design '
-date: '2018-01-15'
-thumb_image: images/4.jpg
-image: images/4.jpg
+title: Introduction to Business Communication
+subtitle: ''
+date: 2021-01-01T18:30:00.000Z
+thumb_image: ''
+image: ''
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  Steve Jobs is one of the best presenters, with ability to get his message
+  across so clearly and effectively.His great oratory and presentation skills
+  have helped his company to grow. One of his great speech was &quot;the launch
+  of the iPad in 2010&quot;. Like all his presentations this too starts by
+  having a well-designed structure. Steve Jobs throughout his speech focused on
+  opening, body and closing.
 template: post
 ---
+Steve Jobs is one of the best presenters, with ability to get his message across so clearly and effectively.His great oratory and presentation skills have helped his company to grow. One of his
+great speech was &quot;the launch of the iPad in 2010 &;. Like all his presentations this too starts by
+having a well-designed structure. Steve Jobs throughout his speech focused on **opening, body
+and closing.**
+In the opening Steve Jobs first overviewed of the company status-mainly good news about
+product sales and the large customer base. Then he threw out a question: “*Is there a 3rd category
+device between a smart phone and a laptop?*” thus gave a perfect introduction to the iPad .In the
+body he gave a detailed Overview and demo of what iPad can do and Hardware features. He kept
+the conversation going through pictorial presentation.
+Steve Jobs utilized this product launch opportunity not only to introduce the new product but
+also to persuade the audience to own it showcasing his excellent salesmanship After the demo of
+what the iPad can do, Jobs said, “I have to say, though, watching it is nothing like getting it in
+your hands and feeling it right underneath your fingers.” This is to tell the audience that you need
+to own this gadget to really feel its charm, me made sure to use adjectives to make his product
+wanted.
+Unveiling the price of iPad, Steve first recapped the product benefits: what iPad can do, Apps,
+iBook App, iWork App..He didn’t tell the price right away. But to build some suspense and also
+contrast, he gave a price in as $999 while describing all the features which add up to this sum.
+Later he set the price to $499, for the most basic model and higher prices for other more
+advanced models. Here Steve used two skills. The first one is to mention benefits before the
+price so that buyers are reminded of the wonderful benefits of this product first and then are
+more likely to accept the price. The second skill Steve used is to give a higher price first and then
+the real lower price. This contrast of prices naturally makes the buyer feel the actual price is
+really low and it’s a great deal to get it at this price.
+Jobs made opening of the presentation well-structured to serve as a set up for the closing. The
+opening’s main message was Apple having a massive customer base links, while the closing
+message was the massive customer base was the customer foundation for iPad and why iPad will
+take off strong in the market.
+He mentioned “*Everybody uses a laptop or smart phone… Is there a room for the 3rd category of
+device in the middle? Something between a laptop and a smart phone?*”
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
+While Closing: “So let’s go back to the beginning. Do we have what it takes to establish a 3rd category product, an awesome product that’s in between a laptop and a smart phone…We think
+we got the goods. We think we’ve done it.”
 
-Aenean sed adipiscing diam donec. Id donec ultrices tincidunt arcu non sodales. Orci ac auctor augue mauris augue neque gravida in. Mattis enim ut tellus elementum sagittis vitae et leo duis. Tortor pretium viverra suspendisse potenti nullam. Malesuada proin libero nunc consequat. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Mauris vitae ultricies leo integer malesuada nunc. Eget magna fermentum iaculis eu. Molestie at elementum eu facilisis. Dui faucibus in ornare quam viverra orci sagittis. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
 
-Tellus mauris a diam maecenas sed enim. Enim facilisis gravida neque convallis a cras. Sollicitudin nibh sit amet commodo nulla facilisi. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Semper viverra nam libero justo laoreet sit. Vestibulum sed arcu non odio euismod lacinia at quis risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquam sem et tortor consequat id porta nibh venenatis cras. Et leo duis ut diam quam nulla porttitor massa id. Sagittis vitae et leo duis ut diam quam. Vitae aliquet nec ullamcorper sit amet. Egestas egestas fringilla phasellus faucibus. Elit pellentesque habitant morbi tristique senectus et netus et. Sagittis purus sit amet volutpat consequat mauris nunc. Commodo odio aenean sed adipiscing. Aliquet eget sit amet tellus cras adipiscing. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Justo eget magna fermentum iaculis eu non.
+If there is one thing that differentiates Steve Jobs from other great speakers, it is his speaking
+speed. Steve is 50% slower when he speaks. He enunciates each word clearly and he takes time
+to emphasize the key words and messages. The effect of his slow pace is that audience will feel
+very comfortable following him without being rushed or missing anything he said. As a result, he
+gets his message across successfully.
+A good presenter connects with the audience on a personal level by expressing his own
+emotions. Steve Jobs is such a presenter. Apart from this Steve kept the humor sidelines to keep
+the audience entertained, He also knows the power of repetition to strike his main messages in
+the audience minds.
+Jobs presentation was simple lucid and easy to grasp i.e. one message per slide. Besides, the
+most important message is put in bigger font while narratives in smaller font. He made sure to
+use the presentation as an aid and didn’t glance at it while delivering, this highlighted his
+confidence.
+Steve Jobs smartly utilized the product launch opportunity to promote the company and build up
+its Apple brand. In the beginning of the presentation, Steve Jobs gave a positioning to Apple:
 
-Mi quis hendrerit dolor magna. Vel facilisis volutpat est velit egestas dui id ornare arcu. Sed sed risus pretium quam vulputate. Quam viverra orci sagittis eu volutpat odio facilisis mauris. Enim eu turpis egestas pretium. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Turpis egestas pretium aenean pharetra magna ac. Enim diam vulputate ut pharetra sit amet aliquam id. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Amet nulla facilisi morbi tempus. Aliquet bibendum enim facilisis gravida neque convallis. Nulla pharetra diam sit amet. Vitae nunc sed velit dignissim sodales ut.
+>
+> “Apple is a mobile devices company. That’s what we do.” &quot;If you think Apple is just a digital
+> appliance company, then after listening to this speech, you know that to be specific, Apple is a
+> mobile devices company."
+
+
+At the end of the presentation, Steve Jobs reiterated the competitive advantage of Apple: “We’ve
+always tried to be at the crossroad of technology and liberal arts, to be able to get the best of the
+both.” This is what differentiates Apple from other technical companies.
+
+
+Steve Jobs in his 1.5-hour iPad product launch presentation delivered an amazing and
+commendable performance. Steve was a master in structuring and executing his pitch. Although
+it’s pretty easy when you are the CEO of an impressive company, Steve did a great job in
+grabbing the attention from the beginning all the way to the end. Steve is a role model as a highly
+effective technical presenter. All these skills make him one of the best orators of time, he gave
+his company a new face just by showing amazing presentation skills and unique ability to
+convince, influence his audience.
