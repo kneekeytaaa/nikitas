@@ -42,6 +42,31 @@ sections:
     subtitle: Sometimes I write
     title: Latest from the Blog
     type: section_posts
+  - col_number: two
+    grid_items:
+      - image: /images/nikita.webp
+        type: grid_item
+      - actions:
+          - label: Say Hi
+            new_window: false
+            style: button
+            type: action
+            url: /contact
+        content: >-
+          In my free time, I doodle and make DIY art. Sometimes I dab hands at
+          cooking. I recently started blogging my dishes on Instagram
+          @nikkirheablog. I love teaching kids and I usually involve myself in
+          NGOs for child support. I currently volunteer at Nachiket Balgram an
+          orphanage in Pune. With a perpetual hunger for knowledge in cinema, I
+          am a social media enthusiast with a head for marketing. Having watched
+          Mad Men, I wanted to be the Don Draper of the world, but the quick
+          realization DON-ed upon me that the AD world is more than just
+          whiskeys and charms. It’s an entourage of people who survive on
+          creativity. And so, I hope to find a place in this Mad world.
+        title: Little Bit About Me
+        type: grid_item
+    is_numbered: false
+    type: section_grid
 template: advanced
 ---
 
