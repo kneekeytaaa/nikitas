@@ -7,10 +7,7 @@ image: ''
 excerpt: >-
   Steve Jobs is one of the best presenters, with ability to get his message
   across so clearly and effectively.His great oratory and presentation skills
-  have helped his company to grow. One of his great speech was &quot;the launch
-  of the iPad in 2010&quot;. Like all his presentations this too starts by
-  having a well-designed structure. Steve Jobs throughout his speech focused on
-  opening, body and closing.
+  have helped his company to grow.
 template: post
 ---
 Steve Jobs is one of the best presenters, with ability to get his message across so clearly and effectively.His great oratory and presentation skills have helped his company to grow. One of his
