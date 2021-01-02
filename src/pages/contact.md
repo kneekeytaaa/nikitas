@@ -1,48 +1,47 @@
 ---
-title: Contact
+title: Contact Me
 hide_title: false
 sections:
-  - type: section_form
-    section_id: contact-form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
-    form_id: contactForm
-    form_action: /thank-you
-    form_fields:
-      - type: form_field
-        input_type: text
-        name: name
-        label: Name
-        default_value: Your name
-        is_required: true
-      - type: form_field
-        input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-      - type: form_field
-        input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
-      - type: form_field
-        input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
-      - type: form_field
-        input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+  - actions:
+      - icon_class: fa-facebook
+        label: Facebook
+        new_window: true
+        style: icon
+        type: action
+        url: 'https://www.facebook.com/kneekeytaaa'
+      - icon_class: fa-twitter
+        label: Twitter
+        new_window: true
+        style: icon
+        type: action
+        url: 'https://twitter.com/kneekeytaaa'
+      - icon_class: fa-instagram
+        label: Instagram
+        new_window: true
+        style: icon
+        type: action
+        url: 'https://www.instagram.com/imnikita.s/'
+      - icon_class: fa-linkedin
+        label: LinkedIn
+        new_window: true
+        style: icon
+        type: action
+        url: 'https://www.linkedin.com/in/nikita-shelar-644948146/'
+      - icon_class: fa-envelope-open
+        label: Mail
+        new_window: true
+        style: icon
+        type: action
+        url: 'mailto:shelar.nikita19@gmail.com'
+      - icon_class: fa-phone
+        label: Number
+        new_window: true
+        style: icon
+        type: action
+        url: 'tel:8669667019'
+    content: You can Follow me here or
+    title: Get in touch with Me
+    type: section_content
 template: advanced
 ---
+
