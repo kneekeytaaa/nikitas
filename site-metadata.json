@@ -1,82 +1,76 @@
 {
-    "title": "Nikita",
-    "description": "A portfolio and personal Blog",
-    "color_scheme": "light",
-    "accent_color": "pink",
-    "header": {
-        "type": "header",
-        "title": "Nikita",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "type": "action",
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Cases",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            }
-        ]
-    },
-    "footer": {
-        "type": "footer",
-        "content": "&copy; 2020 Nikita. All rights reserved.",
-        "has_social": true,
-        "social_links": [
-            {
-                "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon_class": "fa-dribbble",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
-            }
-        ]
-    }
+  "title": "Nikita",
+  "description": "A portfolio and personal Blog",
+  "color_scheme": "light",
+  "accent_color": "pink",
+  "header": {
+    "title": "Home",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Cases",
+        "url": "/portfolio/",
+        "style": "link",
+        "type": "action"
+      },
+      {
+        "label": "Blog",
+        "url": "/blog/",
+        "style": "link",
+        "type": "action"
+      },
+      {
+        "label": "About",
+        "url": "/about/",
+        "style": "link",
+        "type": "action"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact/",
+        "style": "link",
+        "type": "action"
+      }
+    ],
+    "type": "header"
+  },
+  "footer": {
+    "content": "&copy; 2020 Nikita. All rights reserved.",
+    "has_social": true,
+    "social_links": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/",
+        "style": "icon",
+        "icon_class": "fa-twitter",
+        "new_window": true,
+        "type": "action"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/",
+        "style": "icon",
+        "icon_class": "fa-instagram",
+        "new_window": true,
+        "type": "action"
+      },
+      {
+        "label": "Dribbble",
+        "url": "https://dribbble.com/",
+        "style": "icon",
+        "icon_class": "fa-dribbble",
+        "new_window": true,
+        "type": "action"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "style": "icon",
+        "icon_class": "fa-linkedin",
+        "new_window": true,
+        "type": "action"
+      }
+    ],
+    "type": "footer"
+  }
 }
