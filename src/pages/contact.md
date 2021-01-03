@@ -16,10 +16,6 @@ sections:
         type: action
         url: '/tel:8669667019'
     content: >-
-
-
-
-
       <div class="social-links">
 
 
