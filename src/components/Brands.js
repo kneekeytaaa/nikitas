@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default class CtaButtons extends React.Component {
+export default class Brands extends React.Component {
     render() {
 
         <div className="brands">
