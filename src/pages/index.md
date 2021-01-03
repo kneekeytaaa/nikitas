@@ -56,7 +56,7 @@ sections:
     type: section_portfolio
     view_all_label: View All
     view_all_url: portfolio
-  - content: '<Brands /> '
+  - content: <Brands />
     subtitle: ''
     title: Brands I've worked with
     type: section_content
