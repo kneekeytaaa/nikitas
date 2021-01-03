@@ -53,7 +53,6 @@ export default class Brands extends React.Component {
         <div className="brand">
           <img src="./assets/img/brands16.jpg" alt="none" />
         </div>
-
         
       </div>
     }
