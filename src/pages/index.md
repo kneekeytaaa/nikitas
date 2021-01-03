@@ -23,25 +23,6 @@ sections:
     section_id: hero
     title: 'Hi, I''m Nikita Shelar'
     type: section_hero
-  - layout_style: mosaic
-    projects_number: 6
-    section_id: latest-projects
-    subtitle: ''
-    title: Case Studies
-    type: section_portfolio
-    view_all_label: View All
-    view_all_url: portfolio
-  - actions:
-      - label: View Blog
-        style: button
-        type: action
-        url: blog
-    col_number: three
-    posts_number: 3
-    section_id: latest-posts
-    subtitle: Sometimes I write
-    title: Latest from the Blog
-    type: section_posts
   - col_number: two
     grid_items:
       - image: /images/nikita.webp
@@ -67,6 +48,127 @@ sections:
         type: grid_item
     is_numbered: false
     type: section_grid
+  - layout_style: mosaic
+    projects_number: 6
+    section_id: latest-projects
+    subtitle: ''
+    title: Case Studies
+    type: section_portfolio
+    view_all_label: View All
+    view_all_url: portfolio
+  - actions:
+      - label: View Blog
+        style: button
+        type: action
+        url: blog
+    col_number: two
+    posts_number: 2
+    section_id: latest-posts
+    subtitle: Sometimes I write
+    title: Latest from the Blog
+    type: section_posts
+  - content: |-
+      <divclassName="brands">
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (1).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (14).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (2).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (3).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (4).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (5).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (6).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (7).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (8).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (9).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (15).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (11).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (12).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (13).webp"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brand15.jpg"alt="none"/>
+
+      </div>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands16.jpg"alt="none"/>
+
+      </div>
+
+      </div>
+    subtitle: Brands I've worked with
+    type: section_content
 template: advanced
 ---
 
