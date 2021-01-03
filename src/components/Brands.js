@@ -3,8 +3,8 @@ import React from 'react';
 
 export default class Brands extends React.Component {
     render() {
-
-        <div className="brands">
+        return(
+            <div className="brands">
         <div className="brand">
           <img src="./assets/img/brands (1).webp" alt="none" />
         </div>
@@ -55,5 +55,6 @@ export default class Brands extends React.Component {
         </div>
         
       </div>
+        )
     }
 }
