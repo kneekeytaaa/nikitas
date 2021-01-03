@@ -3,43 +3,49 @@ title: Contact Me
 hide_title: false
 sections:
   - actions:
-      - icon_class: fa-facebook
-        label: Facebook
-        new_window: true
-        style: icon
-        type: action
-        url: 'https://www.facebook.com/kneekeytaaa'
-      - icon_class: fa-twitter
-        label: Twitter
-        new_window: true
-        style: icon
-        type: action
-        url: 'https://twitter.com/kneekeytaaa'
-      - icon_class: fa-instagram
-        label: Instagram
-        new_window: true
-        style: icon
-        type: action
-        url: 'https://www.instagram.com/imnikita.s/'
-      - icon_class: fa-linkedin
-        label: LinkedIn
-        new_window: true
-        style: icon
-        type: action
-        url: 'https://www.linkedin.com/in/nikita-shelar-644948146/'
       - icon_class: fa-envelope-open
-        label: Mail
+        label: Email Me
         new_window: true
-        style: icon
+        style: button
         type: action
-        url: 'https://mailto:shelar.nikita19@gmail.com'
+        url: '/mailto:shelar.nikita19@gmail.com'
       - icon_class: fa-phone
-        label: Number
+        label: Call Me
         new_window: true
-        style: icon
+        style: link
         type: action
-        url: 'tel:8669667019'
-    content: ''
+        url: '/tel:8669667019'
+    content: >-
+
+
+
+
+      <div class="social-links">
+
+
+      <a href="https://www.facebook.com/kneekeytaaa" class="button-icon"
+      target="_blank" rel="noopener"><span class="icon fab fa-facebook"
+      aria-hidden="true"></span><span
+      class="screen-reader-text">Twitter</span></a>
+
+
+      <a href="https://twitter.com/kneekeytaaa" class="button-icon"
+      target="_blank" rel="noopener"><span class="icon fab fa-twitter"
+      aria-hidden="true"></span><span
+      class="screen-reader-text">Twitter</span></a>
+
+
+      <a href="https://www.instagram.com/imnikita.s/" class="button-icon"
+      target="_blank" rel="noopener"><span class="icon fab fa-instagram"
+      aria-hidden="true"></span><span
+      class="screen-reader-text">Instagram</span></a>
+
+
+      <a href="https://www.linkedin.com/in/nikita-shelar-644948146/"
+      class="button-icon" target="_blank" rel="noopener"><span class="icon fab
+      fa-linkedin" aria-hidden="true"></span><span
+      class="screen-reader-text">LinkedIn</span></a></div>
+    subtitle: Don't be Shy to Say Hi!
     title: ''
     type: section_content
   - col_number: two
