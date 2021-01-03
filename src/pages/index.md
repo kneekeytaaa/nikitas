@@ -56,6 +56,143 @@ sections:
     type: section_portfolio
     view_all_label: View All
     view_all_url: portfolio
+  - content: |-
+      <!--StartFragment-->
+
+      <divclassName="brands">
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (1).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (14).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (2).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (3).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (4).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (5).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (6).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (7).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (8).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (9).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (15).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (11).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (12).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (13).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brand15.jpg"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands16.jpg"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (1).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (14).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (2).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (3).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (4).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (5).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (6).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (7).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (8).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (9).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (15).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (11).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (12).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands (13).webp"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brand15.jpg"alt="none"/>
+
+      <divclassName="brand">
+
+      <imgsrc="./assets/img/brands16.jpg"alt="none"/>
+
+      <!--EndFragment-->
+    subtitle: ''
+    title: Brands I've worked with
+    type: section_content
   - actions:
       - label: View Blog
         style: button
@@ -67,108 +204,6 @@ sections:
     subtitle: Sometimes I write
     title: Latest from the Blog
     type: section_posts
-  - content: |-
-      <divclassName="brands">
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (1).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (14).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (2).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (3).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (4).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (5).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (6).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (7).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (8).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (9).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (15).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (11).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (12).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands (13).webp"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brand15.jpg"alt="none"/>
-
-      </div>
-
-      <divclassName="brand">
-
-      <imgsrc="./assets/img/brands16.jpg"alt="none"/>
-
-      </div>
-
-      </div>
-    subtitle: Brands I've worked with
-    type: section_content
 template: advanced
 ---
 
