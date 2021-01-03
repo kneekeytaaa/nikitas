@@ -572,3 +572,24 @@ img {
     }
   }
 }
+
+.brands{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  .brand{
+    max-width: 150px;
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    align-items: center;
+    opacity: 0.7;
+    transition: 0.3s;
+    &:hover{
+      opacity: 1;
+    }
+  }
+  img{
+    max-width: 100%;
+  }
+}
