@@ -11,6 +11,7 @@ import SectionPortfolio from './SectionPortfolio';
 import SectionPosts from './SectionPosts';
 import SectionTestimonials from './SectionTestimonials';
 import Layout from './Layout';
+import Brands from './Brands';
 
 export {
     ActionLink,
@@ -25,7 +26,8 @@ export {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    Layout
+    Layout,
+    Brands
 };
 
 export default {
@@ -41,5 +43,6 @@ export default {
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials,
-    Layout
+    Layout,
+    Brands
 };
