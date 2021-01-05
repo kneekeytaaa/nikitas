@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-
+import Brands from '../components/Brands'
 import components, {Layout} from '../components/index';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
@@ -30,6 +30,7 @@ export default class Advanced extends React.Component {
                   <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
                 )
             })}
+              <Brands />
             </Layout>
         );
     }

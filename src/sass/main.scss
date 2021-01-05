@@ -42,3 +42,24 @@ $palette: (
 @import "imports/footer";
 @import "imports/palettes";
 @import "imports/banner";
+
+
+
+  .brands {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1.5rem 0; }
+    .brands .brand {
+      max-width: 150px;
+      display: flex;
+      justify-content: center;
+      padding: 8px;
+      align-items: center;
+      opacity: 0.7;
+      transition: 0.3s; }
+      .brands .brand:hover {
+        opacity: 1; }
+    .brands img {
+      max-width: 100%;
+     }
