@@ -48,18 +48,6 @@ sections:
         type: grid_item
     is_numbered: false
     type: section_grid
-  - layout_style: mosaic
-    projects_number: 6
-    section_id: latest-projects
-    subtitle: ''
-    title: Case Studies
-    type: section_portfolio
-    view_all_label: View All
-    view_all_url: portfolio
-  - content: '<Brands></Brands>'
-    subtitle: ''
-    title: Brands I've w orked with
-    type: section_content
   - actions:
       - label: View Blog
         style: button
@@ -73,6 +61,4 @@ sections:
     type: section_posts
 template: advanced
 ---
-
-import Brands from '../components/Brands'
 
