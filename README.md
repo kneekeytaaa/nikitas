@@ -1,4 +1,4 @@
-# ✨ successful-eucalyptus ✨
+# ✨ Nikita Shelar Portfolio | Gatsby | React | JS | SASS ✨
 
 
 This is a [Gatsby](https://gatsbyjs.com) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
