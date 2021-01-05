@@ -14,13 +14,16 @@ export const query = graphql`
   }
 `;
 
+
 export default class Advanced extends React.Component {
+  
     render() {
         return (
             <Layout {...this.props}>
             {(!_.get(this.props, 'pageContext.frontmatter.hide_title', null)) && (
             <header className="page-header inner-sm outer">
               <h1 className="page-title line-top">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
+
             </header>
             )}
             {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {
@@ -30,8 +33,9 @@ export default class Advanced extends React.Component {
                   <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
                 )
             })}
-              <Brands />
-            </Layout>
+                <Brands cname={_.get(this.props, 'pageContext.frontmatter.title', null)}/>
+              
+            </Layout >
         );
     }
 }

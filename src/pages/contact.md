@@ -27,18 +27,7 @@ sections:
         style: icon
         type: action
         url: 'https://www.linkedin.com/in/nikita-shelar-644948146/'
-      - icon_class: fa-envelope-open
-        label: Mail
-        new_window: true
-        style: icon
-        type: action
-        url: 'https://mailto:shelar.nikita19@gmail.com'
-      - icon_class: fa-phone
-        label: Number
-        new_window: true
-        style: icon
-        type: action
-        url: 'tel:8669667019'
+      
     content: You can Follow me here or
     title: Get in touch with Me
     type: section_content

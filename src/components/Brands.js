@@ -1,10 +1,11 @@
+import { divide } from 'lodash';
 import React from 'react';
 
 
-export default class Brands extends React.Component {
-  render() {
+export default function Brands(props)  {
     return (
-          <div className="inner" style={{marginTop: 75}}>
+        <div className={props.cname}>
+           <div className="inner " style={{marginTop: 75}}>
             <div className="block-header inner-sm">
               <h2 className="block-title line-top">Brands I've worked with</h2>
               </div>
@@ -62,8 +63,8 @@ export default class Brands extends React.Component {
               </div>
               
           </div>
+        </div>
     );
-  }
 }
 
 
