@@ -54,6 +54,11 @@ sections:
     is_numbered: false
     title: Follow on Instagram
     type: section_grid
+  - content: |-
+      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+
+      <div class="elfsight-app-fbd41747-bc7c-4e9d-9df9-ee7d7fbd46fa"></div>
+    type: section_content
 template: advanced
 ---
 
