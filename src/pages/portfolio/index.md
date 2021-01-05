@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Case Studies
 subtitle: >-
   During my 3-year course at Symbiosis Centre of Media and Communication, I got
   a chance to push my limits and try my best at creativity through assignments
