@@ -6,6 +6,14 @@ template: page
 ---
 ![](/images/nikita-2.jfif)
 
+> ## Looking *for* my ***next*** 
+>
+> # *opportunity* 
+>
+> ## to *make* a *change*
+>
+> # The digital way...
+
 When I was 14 years old, I would secretly watch Mad Men after bedtime with all the enthusiasm of, well, a teen. Nobody was more excited than I was when it premiered on TV daily, sparking a craze for all things early 60’s. Needless to say, I was mesmerized and fascinated. Having watched Mad Men, I wanted to be the Don Draper of the world, but the quick realization DON-ed upon me that I am not nearly as charming and the advertising world is more than just whiskeys and charms. It is an entourage of people who survive on creativity. And so, I hope to find a place in this mad-Ad world. “Advertising is based on one thing: Happiness” an interesting quote from Don Draper, reminds me that all marketers do is to convince the world that their product makes them happier. Just like Don, one can be skeptical about consumer culture but you cannot get around this. If you are a marketer, you need to know that happiness sells. No one wants a branded Gucci bag because they can store things in it. They want Gucci because of what it will make them: someone who is classy, fancy, luxurious. The message surrounding the Gucci bag should reflect that.
 
 After getting into India’s No. 1 mass communication college for my bachelor’s, I dived into the world of media. While researching the subject, I found out that I am mostly interested in marketing communications with a focus on advertising. Some of the modules that I covered include Ad Filmmaking, Finance, Design, Strategic Management, Economics, Psychology, Graphic Designing and Marketing. With an excellent understanding of these subjects and an enthusiasm for knowledge.
@@ -14,10 +22,12 @@ Influencing people's choices and decisions, marketing communications are of extr
 
 Marketing demands broad understanding of technology, an awareness of trends, along with creative principles which I personally believe I have and this would enable me to progress. My interest in creative thinking as part of advertising was boosted by a course called ‘Culture and Communication’ specifically Semiotics, by Ferdinand de Saussure. It states that symbols have an emotional meaning and take over the rational self of a person and persuade them to make decisions regarding an advertising message. Today, through stimulation of reality or "hyper-reality” smartly coined by Jean Baudrillard (in Simulacra and Simulation), marketers can tug at heartstrings and base their advertising on emotional response. Such theories have led me to experience a buffet of creativity.
 
-I developed a unique capability to look into the process of brand building in my creative pursuits. I like focusing on details and multi-tasks with utmost dedication and discipline. Often, I have been able to work on my own initiative, which I have enjoyed immensely as it has allowed me to use my own ideas and thoughts. I have been committed to issues such as sustainability, quality of education, and socio-economic equality. 
+I developed a unique capability to look into the process of brand building in my creative pursuits. I like focusing on details and multi-tasks with utmost dedication and discipline. Often, I have been able to work on my own initiative, which I have enjoyed immensely as it has allowed me to use my own ideas and thoughts. I have been committed to issues such as sustainability, quality of education, and socio-economic equality.  I volunteered with ‘Underprivileged Advancement by Youth (UPAY)’ a non-governmental organization that works towards the provision of quality education to the underprivileged children in India.
 
-> I volunteered with ‘Underprivileged Advancement by Youth (UPAY)’ a non-governmental organization that works towards the provision of quality education to the underprivileged children in India.
+I volunteered with ‘Underprivileged Advancement by Youth (UPAY)’ a non-governmental organization that works towards the provision of quality education to the underprivileged children in India.
 
 My contribution was awarded as Best Summer Intern, 2018. I still handle media relations for an Orphanage Nachiket Balgram and contribute to the cause through my time and skills.
+
+> I enjoy approaching complex projects with a holistic approach. A large part of my success while working with people stems from my ability to cultivate an intuitive understanding of their needs, and spearhead the project from there. Have a look at the work I’ve done in the past, and get in touch to learn more.
 
 2017 was an important year of my life. I turned 18, Legally responsible for myself. Ready to step into the new world! I applied for colleges and got selected into my desired institution. Eventually moved out of the house, got a taste of adulting and living with new people. I developed a mature attitude and independence spending time away from my parents. At university, I gained valuable hands-on experience in life. This practical experience contributed to my learning as well as elevated my confidence and specialty. Coming across Mad Men may have been an accident, but my ensuing dedication to the advertising and marketing world has been a wholly active endeavor.
